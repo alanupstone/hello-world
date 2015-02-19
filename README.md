@@ -1,2 +1,3 @@
 # hello-world
-trainid exercis
+training exercise1
+
